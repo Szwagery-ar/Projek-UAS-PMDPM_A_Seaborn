@@ -32,7 +32,7 @@ def add_bg_from_url():
 
 add_bg_from_url()
 
-model = load_model("Model_MobileNetCNN_Seaborn.h5")
+model = load_model("BestModel_MobileNetCNN_Seaborn.h5")
 
 class_names = ['PaprikaHijau', 'PaprikaKuning', 'PaprikaMerah']
 
